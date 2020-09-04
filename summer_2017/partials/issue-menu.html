@@ -1,0 +1,84 @@
+			<aside class="col-md-3">
+				<nav class="nav flex-column">
+					<ul class="list-group">
+						<li class="nav-item list-group-item list-group-item-info">Summer 2017</li>
+						<?php
+							if($active == "index") {
+								echo '<li class="nav-item list-group-item active">Editorial</li>';
+							} else {
+								echo '<li class="nav-item list-group-item"><a href="index.php">Editorial</a></li>';
+							}
+							if($active == "understood") {
+								echo '<li class="nav-item list-group-item active">They Understood</li>';
+							} else {
+								echo '<li class="nav-item list-group-item"><a href="understood.php">They Understood</a></li>';
+							}
+							if($active == "closure") {
+								echo '<li class="nav-item list-group-item active">Closure</li>';
+							} else {
+								echo '<li class="nav-item list-group-item"><a href="closure.php">Closure</a></li>';
+							}
+							if($active == "dying") {
+								echo '<li class="nav-item list-group-item active">The Dying</li>';
+							} else {
+								echo '<li class="nav-item list-group-item"><a href="dying.php">The Dying</a></li>';
+							}
+							if($active == "hidden") {
+								echo '<li class="nav-item list-group-item active">Hidden</li>';
+							} else {
+								echo '<li class="nav-item list-group-item"><a href="hidden.php">Hidden</a></li>';
+							}
+							if($active == "plan") {
+								echo '<li class="nav-item list-group-item active">Albert\'s Plan</li>';
+							} else {
+								echo '<li class="nav-item list-group-item"><a href="plan.php">Albert\'s Plan</a></li>';
+							}
+							if($active == "anomaly") {
+								echo '<li class="nav-item list-group-item active">Anomaly</li>';
+							} else {
+								echo '<li class="nav-item list-group-item"><a href="anomaly.php">Anomaly</a></li>';
+							}
+							if($active == "song") {
+								echo '<li class="nav-item list-group-item active">Meghan\'s Song</li>';
+							} else {
+								echo '<li class="nav-item list-group-item"><a href="song.php">Meghan\'s Song</a></li>';
+							}
+							if($active == "light") {
+								echo '<li class="nav-item list-group-item active">Light Always Accelerates</li>';
+							} else {
+								echo '<li class="nav-item list-group-item"><a href="light.php">Light Always Accelerates</a></li>';
+							}
+						?>
+					</ul>
+				</nav>
+				<nav class="nav flex-column">
+					<ul class="list-group">
+						<li class="nav-item list-group-item list-group-item-info">Back Issues</li>
+						<li class="nav-item list-group-item"><a href="spring_2017/">Spring 2017</a></li>
+					</ul>
+				</nav>
+				<nav class="nav flex-column">
+					<ul class="list-group">
+						<li  class="nav-item list-group-item list-group-item-info">General Links</li>
+						<?php
+							if($active == "about") {
+								echo '<li class="nav-item list-group-item active">About</li>';
+							} else {
+								echo '<li class="nav-item list-group-item"><a href="about.php">About</a></li>';
+							}
+							if($active == "guidelines") {
+								echo '<li class="nav-item list-group-item active">Guidelines</li>';
+							} else {
+								echo '<li class="nav-item list-group-item"><a href="guidelines.php">Guidelines</a></li>';
+							}
+							if($active == "contact") {
+								echo '<li class="nav-item list-group-item active">Contact Us</li>';
+							} else {
+								echo '<li class="nav-item list-group-item"><a href="contactform.php">Contact Us</a></li>';
+							}
+						?>
+						
+						
+					</ul>
+				</nav>
+			</aside>
