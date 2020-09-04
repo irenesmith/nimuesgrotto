@@ -20,7 +20,7 @@
 			<section class="col-md-6">
 				<article>
 					<h1>Submission Guidelines</h1>
-					<p>We are currently seeking submissions for the Winter, 2017 Issue of Nimue’s Grotto. The deadline for submissions to the Winter, 2017 issue is November 24, 2017.</p>
+					<p>We are currently seeking submissions for the Fall, 2020 Issue of Nimue’s Grotto. The deadline for submissions to the Fall, 2020 issue is October 15, 2020.</p>
 
 					<h2>Do you write flash fiction?</h2>
 
