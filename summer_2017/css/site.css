@@ -1,0 +1,41 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+body {
+	font-family:Arial, sans-serif;
+	margin-top:50px;
+}
+
+h1 {
+	padding-top:10px;
+	font-family: 'Griffy', cursive;
+	text-align:center;
+}
+
+h2 {
+	padding-top:20px;
+}
+
+article {
+	border-bottom:solid 1px #ccc;
+}
+
+.author {
+	font-style:italic;
+}
+
+#editor-pic {
+	padding:5px !important;
+}
+
+.list-group-item-fall {
+	background-color: #9f3528;
+	color: #fcac01;
+}
+
+.active-fall {
+	background-color: #fcac01;
+	color: #9f3528;
+}
