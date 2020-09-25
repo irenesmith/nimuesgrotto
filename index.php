@@ -46,11 +46,12 @@
             think?
           </p>
           <p>
-            The Fall edition will appear here on Halloween night! But we can't
-            do it without you! (Yes, I'm looking at you #WritingCommunity!)
-            Please take a look at our <a href="guidelines.php">Guidelines</a>
-            and then submit! We're looking for Speculative Flash Fiction (1,000
-            words or less) as well as short reviews of books and movies.
+            The October 2020 edition will appear here on Halloween night! But
+            we can't do it without you! (Yes, I'm looking at you
+            #WritingCommunity!) Please take a look at our
+            <a href="guidelines.php">Guidelines</a> and then submit! We're
+            looking for Speculative Flash Fiction (1,000 words or less) as well
+            as short reviews of books and movies.
           </p>
           <p>
             We can't wait to hear from you all.
