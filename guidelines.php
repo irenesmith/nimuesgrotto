@@ -23,8 +23,15 @@
         <article>
           <h1>Submission Guidelines</h1>
           <p>
-            We are currently seeking submissions for the Fall, 2020 Issue of
+            We are currently seeking submissions for the October 2020 Issue of
             Nimue’s Grotto. The deadline for submissions is October 24, 2020.
+          </p>
+
+          <p>
+            Submissions that reach us after October 24, 2020 will be considered
+            for the December 2020 issue. Deadline for December 2020 is December
+            18, 2020. (The deadline is a week early so we can publish for
+            Christmas.)
           </p>
 
           <h2>What are we looking for?</h2>
