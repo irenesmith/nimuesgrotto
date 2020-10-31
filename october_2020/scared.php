@@ -64,13 +64,13 @@
 
           <p>So I asked Richard &ldquo;Does the name Judas mean anything to you?&rdquo;</p>
 
-          <p>&ldquo;Yes, there&rsquo;s the biblical figure named Judas Iscariot. He traded Jesus&rsquo; location to the Romans for money. Did somebody call you that? God, Jacko&rsquo;s fans really are wacko.&rdquo;</p>
+          <p>&ldquo;Yes, there&rsquo;s the biblical figure named Judas Iscariot. He traded Jesus&rsquo; location to the Romans for money. Did somebody call you that? God, King&rsquo;s fans really are nuts.&rdquo;</p>
 
           <p>&ldquo;Actually, that&rsquo;s what Barry called me.&rdquo;</p>
 
           <p>&ldquo;How could he do that, he&rsquo;s dead?&rdquo;</p>
 
-          <p>I couldn&rsquo;t tell him a ghost visited me, so I lied. &ldquo;In the &lsquo;05 trial, that&rsquo;s when he called me Judas.&rdquo;</p>
+          <p>I couldn&rsquo;t tell him a ghost visited me, so I lied. &ldquo;During the trial, that&rsquo;s when he called me Judas.&rdquo;</p>
 
           <p>&ldquo;Odd. We&rsquo;ll add that in later.&rdquo; The lights dimmed, and the film started. Soon, I thought, the world was gonna be on my side. That was, until my deposition started playing. It then switched back and forth between the film and the deposition. Every lie was uncovered, and the audience started throwing stuff at Will and me. Even Richard started throwing stuff at us. Will and I ran to my van, and we fled the festival. As we left the city, Will said &ldquo;What the hell just happened? Why did the deposition play?&rdquo;</p>
 
