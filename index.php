@@ -8,7 +8,7 @@
 	<title>Nimue's Grotto - Home</title>
 	<link href="https://fonts.googleapis.com/css?family=Griffy" rel="stylesheet">
 
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 	<link rel="stylesheet" href="css/site.css">
 	<link rel="icon" type="image/png" href="img/favicon.png">
 </head>
@@ -21,43 +21,34 @@
 			<?php include 'partials/issue-menu.html' ?>
 			<section class="col-md-6">
 				<article>
-					<h1>Welcome to the Grotto!</h1>
-          <p>A funny thing happened on the way to the Winter 2017 Issue.</p>
+					<h1>Welcome back!</h1>
           <p>
-            I had sudden vision problems that made working on the magazine
-            nearly impossible. I discovered that I had macular degeneration
-            as well as bleeding and swelling in my eyes caused by Type 2
-            Diabetes. Over the next three years I went to the doctor every
-            few weeks, receiving injections directly into into the left and
-            then the right eye. Not fun, believe me.
+            As I'm writing this editorial on Thursday evening, I can hear the rain coming
+            down outside. It's  gray and damp. Just the kind of night that seems to happen
+            so often in Horror stories. And it is the season for it. Halloween is upon us!
+            Even if there are more Tricks than Treats out there this year.
           </p>
           <p>
-            After a while, the time between injections increased. The macular
-            degeneraton went into remission, the swelling went away, and
-            finally the bleeding stopped and cleared up.
+            I've got a few treats for you right here. And you don't have to worry about
+            razor blades or poisons hidden among the treats... or do you? Nah, just kidding.
+            I have a sweet collection of stores for you to savor. Pull up a seat by the fire
+            and join me, won't you?
           </p>
           <p>
-            Now that I've reached the point where I can see, I'd like to revive
-            the Grotto. Because, after all, like Wesley we were not all the way
-            dead, we were only mostly dead!
-          </p>  
-          <p>
-            Hopefully Miracle Max can provide the potion we need. What do you
-            think?
+            Oh, and if my stories inspire you to tell some of your own, great! I would love
+            to hear from you. Take a look at our <a href="guidelines.php">Guidelines</a>
+            and send them along!
           </p>
           <p>
-            The October 2020 edition will appear here on Halloween night! But
-            we can't do it without you! (Yes, I'm looking at you
-            #WritingCommunity!) Please take a look at our
-            <a href="guidelines.php">Guidelines</a> and then submit! We're
-            looking for Speculative Flash Fiction (1,000 words or less) as well
-            as short reviews of books and movies.
+            And just to get your started...
           </p>
-          <p>
-            We can't wait to hear from you all.
-          </p>
-					<footer class="justify-content-right">
-						<address>&mdash;Irene P. Smith, Editor</address>
+          <h2>This is Halloween</h2>
+          <p class="author">by Irene P. Smith</p>
+          <p>The full moon watches ghastly creatures prowl the streets.</p>
+          <p>Witches, clowns, and super heroes ring my doorbell.</p>
+          <p>Strangers wanting candy.</p>
+					<footer>
+						<address class="text-right">&mdash;Irene P. Smith, Editor</address>
 					</footer>
 				</article>
 			</section>
@@ -65,10 +56,5 @@
 	</main>
 
 	<?php include 'partials/footer.html' ?>
-
-	<!-- End of Content -->
-	<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 </body>
 </html>

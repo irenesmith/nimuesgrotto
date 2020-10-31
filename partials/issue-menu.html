@@ -1,10 +1,69 @@
 			<aside class="col-md-3">
 				<nav class="nav flex-column">
 					<ul class="list-group">
-            <li class="nav-item list-group-item list-group-item-fall">Fall 2020</li>
-            <li class="nav-item list-group-item">
-              Come back on October 31, 2020!</a>
-            </li>
+            <li class="nav-item list-group-item list-group-item-fall">Halloween 2020</li>
+						<?php
+							if($active == "index") {
+								echo '<li class="nav-item list-group-item active-fall">Editorial</li>';
+							} else {
+								echo '<li class="nav-item list-group-item"><a href="/index.php">Editorial</a></li>';
+              }
+              if($active == 'annoyances') {
+                echo '<li class="nav-item list-group-item active-fall">Annoyances</li>';
+              } else {
+                echo '<li class="nav-item list-group-item"><a href="/october_2020/annoyances.php">Annoyances</a></li>';
+              }
+              if($active == 'scared') {
+                echo '<li class="nav-item list-group-item active-fall">Are you Scared Yet?</li>';
+              } else {
+                echo '<li class="nav-item list-group-item"><a href="/october_2020/scared.php">Are you Scared Yet?</a></li>';
+              }
+              if($active == 'encounter') {
+                echo '<li class="nav-item list-group-item active-fall">Encounter</li>';
+              } else {
+                echo '<li class="nav-item list-group-item"><a href="/october_2020/encounter.php">Encounter</a></li>';
+              }
+              if($active == 'food') {
+                echo '<li class="nav-item list-group-item active-fall">Food for Thought</li>';
+              } else {
+                echo '<li class="nav-item list-group-item"><a href="/october_2020/food.php">Food for Thought</a></li>';
+              }
+              if($active == 'books') {
+                echo '<li class="nav-item list-group-item active-fall">For the Love of Books</li>';
+              } else {
+                echo '<li class="nav-item list-group-item"><a href="/october_2020/books.php">For the Love of Books</a></li>';
+              }
+              if($active == 'green') {
+                echo '<li class="nav-item list-group-item active-fall">Green</li>';
+              } else {
+                echo '<li class="nav-item list-group-item"><a href="/october_2020/green.php">Green</a></li>';
+              }
+              if($active == 'home') {
+                echo '<li class="nav-item list-group-item active-fall">Home Again</li>';
+              } else {
+                echo '<li class="nav-item list-group-item"><a href="/october_2020/home.php">Home Again</a></li>';
+              }
+              if($active == 'questions') {
+                echo '<li class="nav-item list-group-item active-fall">Questions</li>';
+              } else {
+                echo '<li class="nav-item list-group-item"><a href="/october_2020/questions.php">Questions</a></li>';
+              }
+              if($active == 'stinkweed') {
+                echo '<li class="nav-item list-group-item active-fall">Stinkweed</li>';
+              } else {
+                echo '<li class="nav-item list-group-item"><a href="/october_2020/stinkweed.php">Stinkweed</a></li>';
+              }
+              if($active == 'thirst') {
+                echo '<li class="nav-item list-group-item active-fall">Thirst</li>';
+              } else {
+                echo '<li class="nav-item list-group-item"><a href="/october_2020/thirst.php">Thirst</a></li>';
+              }
+              if($active == 'diabolique-review') {
+                echo '<li class="nav-item list-group-item active-fall">Review: Diabolique</li>';
+              } else {
+                echo '<li class="nav-item list-group-item"><a href="/october_2020/diabolique-review.php">Review: Diabolique</a></li>';
+              }
+            ?>
 					</ul>
 				</nav>
 				<nav class="nav flex-column">
